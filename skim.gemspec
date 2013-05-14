@@ -18,7 +18,7 @@ Sprockets-based asset pipeline.}
   gem.version       = Skim::VERSION
 
   gem.add_dependency "slim", "~> 1.3"
-  gem.add_dependency "temple", "~> 0.6.4"
+  gem.add_dependency "temple", "~> 0.5.5"
   gem.add_dependency "coffee-script"
   gem.add_dependency "coffee-script-source", ">= 1.2.0"
   gem.add_dependency "multi_json"
